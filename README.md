@@ -1,2 +1,2 @@
-# cloudnativebasecamp-algo-01-dart
-Dart implementation for Algorithms Course (algo-01) by Cloud Native Base Camp
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
