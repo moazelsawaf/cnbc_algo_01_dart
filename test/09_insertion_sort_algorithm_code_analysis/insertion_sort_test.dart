@@ -6,7 +6,7 @@ void main() {
   group('Insertion Sort', () {
     // NOTE: The same test data in the video
     test('with x values of [9, 5, 1, 4, 3]', () async {
-      final x = [9, 5, 1, 4, 3];
+      final x = <double>[9, 5, 1, 4, 3];
 
       insertionSort(x);
 
@@ -14,7 +14,7 @@ void main() {
     });
 
     test('with x values of [145, 125, 12.2, 15, 45.52, 456.15, 12]', () async {
-      final x = [145, 125, 12.2, 15, 45.52, 456.15, 12];
+      final x = <double>[145, 125, 12.2, 15, 45.52, 456.15, 12];
 
       insertionSort(x);
 
@@ -22,7 +22,7 @@ void main() {
     });
 
     test('with single x value of [5]', () async {
-      final x = [5];
+      final x = <double>[5];
 
       insertionSort(x);
 

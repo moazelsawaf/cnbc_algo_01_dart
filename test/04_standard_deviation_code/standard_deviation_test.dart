@@ -6,7 +6,7 @@ void main() {
   group('Standard Deviation', () {
     // NOTE: The same test data in the video
     test('with x values of [1, 2, 3]', () async {
-      final x = [1, 2, 3];
+      final x = <double>[1, 2, 3];
 
       final sd = calculateStandardDeviation(x);
 
@@ -14,7 +14,7 @@ void main() {
     });
 
     test('with x values of [10, 12, 23, 23, 16, 23, 21, 16]', () async {
-      final x = [10, 12, 23, 23, 16, 23, 21, 16];
+      final x = <double>[10, 12, 23, 23, 16, 23, 21, 16];
 
       final sd = calculateStandardDeviation(x);
 

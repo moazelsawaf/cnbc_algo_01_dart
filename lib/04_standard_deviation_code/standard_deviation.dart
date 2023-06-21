@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 
-double calculateStandardDeviation(List<num> x) {
+double calculateStandardDeviation(List<double> x) {
   double sd = 0;
   double avg = 0;
   double a = 0;

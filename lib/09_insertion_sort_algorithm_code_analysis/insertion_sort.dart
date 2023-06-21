@@ -1,4 +1,4 @@
-void insertionSort(List<num> x) {
+void insertionSort(List<double> x) {
   for (int i = 1; i < x.length; i++) {
     final key = x[i];
     int j;
