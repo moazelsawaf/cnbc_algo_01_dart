@@ -3,7 +3,7 @@ import 'package:test/test.dart';
 import 'package:cloudnativebasecamp_algo_01_dart/01_circle_area_algorithm_model_code/exercise_trapezoid_area.dart';
 
 void main() {
-  group('Trapezoid Area', () {
+  group('(Exercise) Trapezoid Area', () {
     test(
       'with base (a) of 12 and base (b) of 15.25 and height of 56.5',
       () async {

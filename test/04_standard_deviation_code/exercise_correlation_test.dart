@@ -5,7 +5,7 @@ import 'package:test/test.dart';
 import 'package:cloudnativebasecamp_algo_01_dart/04_standard_deviation_code/exercise_correlation.dart';
 
 void main() {
-  group('Correlation', () {
+  group('(Exercise) Correlation', () {
     test(
       'with the points [(14.2, 215), (16.4, 325), (11.9, 185), (15.2, 332), (18.5, 406)]',
       () async {
