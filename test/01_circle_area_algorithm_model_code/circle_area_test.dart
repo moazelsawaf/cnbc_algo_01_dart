@@ -4,6 +4,7 @@ import 'package:cloudnativebasecamp_algo_01_dart/01_circle_area_algorithm_model_
 
 void main() {
   group('Circle Area', () {
+    // NOTE: The same test data in the video
     test('with radius of 10', () async {
       final r = 10.0;
 
@@ -12,6 +13,7 @@ void main() {
       expect(area, 314.1592653589793);
     });
 
+    // NOTE: The same test data in the video
     test('with radius of 20', () async {
       final r = 20.0;
 

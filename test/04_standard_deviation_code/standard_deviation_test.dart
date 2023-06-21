@@ -4,6 +4,7 @@ import 'package:cloudnativebasecamp_algo_01_dart/04_standard_deviation_code/stan
 
 void main() {
   group('Standard Deviation', () {
+    // NOTE: The same test data in the video
     test('with x values of [1, 2, 3]', () async {
       final x = [1, 2, 3];
 

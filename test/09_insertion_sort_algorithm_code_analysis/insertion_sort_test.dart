@@ -4,6 +4,7 @@ import 'package:cloudnativebasecamp_algo_01_dart/09_insertion_sort_algorithm_cod
 
 void main() {
   group('Insertion Sort', () {
+    // NOTE: The same test data in the video
     test('with x values of [9, 5, 1, 4, 3]', () async {
       final x = [9, 5, 1, 4, 3];
 
