@@ -5,10 +5,12 @@ void mergeSort(List<double> array, int start, int end) {
 
   mergeSort(array, start, midpoint);
   mergeSort(array, midpoint + 1, end);
-  merge(array, start, midpoint, end);
+  _merge(array, start, midpoint, end);
 }
 
-void merge(List<num> array, int start, int midpoint, int end) {
+// Note: I decided to make this method private because it is not used from
+// outside the [mergeSort] method
+void _merge(List<num> array, int start, int midpoint, int end) {
   final leftArray = array.getRange(start, midpoint + 1).toList();
   final rightArray = array.getRange(midpoint + 1, end + 1).toList();
 

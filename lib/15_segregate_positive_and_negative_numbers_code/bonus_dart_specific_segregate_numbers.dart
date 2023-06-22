@@ -5,10 +5,12 @@ void segregateNumbers(List<double> array, int start, int end) {
 
   segregateNumbers(array, start, mid);
   segregateNumbers(array, mid + 1, end);
-  merge(array, start, mid, end);
+  _merge(array, start, mid, end);
 }
 
-void merge(List<double> array, int start, int mid, int end) {
+// Note: I decided to make this method private because it is not used from
+// outside [segregateNumbers] method
+void _merge(List<double> array, int start, int mid, int end) {
   final leftArray = array.getRange(start, mid + 1).toList();
   final rightArray = array.getRange(mid + 1, end + 1).toList();
 
