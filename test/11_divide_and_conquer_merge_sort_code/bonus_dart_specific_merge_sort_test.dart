@@ -1,9 +1,9 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/11_divide_and_conquer_merge_sort_code/dart_specific_merge_sort.dart';
+import 'package:cloudnativebasecamp_algo_01_dart/11_divide_and_conquer_merge_sort_code/bonus_dart_specific_merge_sort.dart';
 
 void main() {
-  group('(Dart Specific) Merge Sort', () {
+  group('(Bonus) (Dart Specific) Merge Sort', () {
     // NOTE: The same test data in the video
     test('with array values of [9, 5, 1, 4]', () async {
       final array = <double>[9, 5, 1, 4];
