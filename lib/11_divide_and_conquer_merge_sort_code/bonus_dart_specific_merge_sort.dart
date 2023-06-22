@@ -9,36 +9,36 @@ void mergeSort(List<double> array, int start, int end) {
 }
 
 void merge(List<num> array, int start, int midpoint, int end) {
-  final leftList = array.getRange(start, midpoint + 1).toList();
-  final rightList = array.getRange(midpoint + 1, end + 1).toList();
+  final leftArray = array.getRange(start, midpoint + 1).toList();
+  final rightArray = array.getRange(midpoint + 1, end + 1).toList();
 
   int i = 0;
   int j = 0;
-  int p = start;
+  int k = start;
 
-  while (i < leftList.length && j < rightList.length) {
-    if (leftList[i] < rightList[j]) {
-      array[p] = leftList[i];
+  while (i < leftArray.length && j < rightArray.length) {
+    if (leftArray[i] < rightArray[j]) {
+      array[k] = leftArray[i];
       i++;
     } else {
-      array[p] = rightList[j];
+      array[k] = rightArray[j];
       j++;
     }
 
-    p++;
+    k++;
   }
 
-  if (i >= leftList.length) {
+  if (i >= leftArray.length) {
     array.replaceRange(
-      p,
+      k,
       end + 1,
-      rightList.getRange(j, rightList.length),
+      rightArray.getRange(j, rightArray.length),
     );
   } else {
     array.replaceRange(
-      p,
+      k,
       end + 1,
-      leftList.getRange(i, leftList.length),
+      leftArray.getRange(i, leftArray.length),
     );
   }
 }
