@@ -8,7 +8,7 @@ void main() {
 
     // NOTE: The same test data in the video
     test(
-      'given 4 as search key ',
+      'given 4 as search key',
       () async {
         final double key = 4;
 
