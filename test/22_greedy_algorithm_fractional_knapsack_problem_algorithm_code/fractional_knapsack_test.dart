@@ -21,8 +21,8 @@ void main() {
 
         knapsack.addItems(sortedItems);
 
-        expect(12, knapsack.currentCapacity);
-        expect(32.4, knapsack.totalValue);
+        expect(knapsack.currentCapacity, 12);
+        expect(knapsack.totalValue, 32.4);
         expect(
           knapsack.items,
           [
@@ -50,8 +50,8 @@ void main() {
 
         knapsack.addItems(sortedItems);
 
-        expect(40, knapsack.currentCapacity);
-        expect(67.5, knapsack.totalValue);
+        expect(knapsack.currentCapacity, 40);
+        expect(knapsack.totalValue, 67.5);
         expect(
           knapsack.items,
           [
