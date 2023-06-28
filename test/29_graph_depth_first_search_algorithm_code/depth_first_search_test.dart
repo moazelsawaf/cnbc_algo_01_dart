@@ -3,7 +3,7 @@ import 'package:test/test.dart';
 import 'package:cloudnativebasecamp_algo_01_dart/29_graph_depth_first_search_algorithm_code/depth_first_search.dart';
 
 void main() {
-  group("Depth First Search", () {
+  group('Depth First Search', () {
     // NOTE: The same test data in the video
     test(
       'with 9 nodes undirected graph',

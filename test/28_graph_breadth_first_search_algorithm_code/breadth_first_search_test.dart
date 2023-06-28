@@ -3,7 +3,7 @@ import 'package:test/test.dart';
 import 'package:cloudnativebasecamp_algo_01_dart/28_graph_breadth_first_search_algorithm_code/breadth_first_search.dart';
 
 void main() {
-  group("Breadth First Search", () {
+  group('Breadth First Search', () {
     // NOTE: The same test data in the video
     test(
       'with 9 nodes undirected graph',
