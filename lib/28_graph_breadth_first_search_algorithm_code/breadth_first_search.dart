@@ -41,7 +41,7 @@ class Graph {
   }
 
   List<Map<String, String>> breadthFirstSearch() {
-    final bfs = <Map<String, String>>[];
+    final bfsEdges = <Map<String, String>>[];
     Queue<Vertex> queue = Queue<Vertex>();
 
     queue.add(vertices.first);
@@ -58,7 +58,7 @@ class Graph {
           queue.add(destinations[i].target);
           destinations[i].target.visited = true;
 
-          bfs.add({
+          bfsEdges.add({
             'from': currentVertex.name,
             'to': destinations[i].target.name,
           });
@@ -66,12 +66,12 @@ class Graph {
       }
     }
 
-    restoreVertices();
+    _restoreVertices();
 
-    return bfs;
+    return bfsEdges;
   }
 
-  void restoreVertices() {
+  void _restoreVertices() {
     for (final vertex in vertices) {
       vertex.visited = false;
     }
