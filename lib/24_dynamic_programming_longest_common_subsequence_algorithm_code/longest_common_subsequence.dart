@@ -14,6 +14,9 @@ String longestCommonSubsequence(String text1, String text2) {
 
   for (int i = 0; i <= m; i++) {
     for (int j = 0; j <= n; j++) {
+      // The first condition can be removed and the counters of `i` and `j` can start from 1
+      // because we have already filled the whole table with zeros, but I kept it to match the
+      // video to ease the learning process.
       if (i == 0 || j == 0) {
         dp[i][j] = 0;
       } else if (text2[i] == text1[j]) {
