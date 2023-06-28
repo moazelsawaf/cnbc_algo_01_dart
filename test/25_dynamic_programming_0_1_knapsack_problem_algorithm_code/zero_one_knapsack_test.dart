@@ -39,7 +39,7 @@ void main() {
         final result = zeroOneKnapsack(items, maxWeight);
 
         expect(result.$1, 187.86);
-        expect(result.$2, ['#6', '#5', '#3','#2']);
+        expect(result.$2, ['#6', '#5', '#3', '#2']);
       },
     );
   });
