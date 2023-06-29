@@ -3,7 +3,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Dart
+name: Flutter & Dart
 
 on:
   push:
@@ -18,12 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Note: This workflow uses the latest stable version of the Dart SDK.
-      # You can specify other versions if desired, see documentation here:
-      # https://github.com/dart-lang/setup-dart/blob/main/README.md
-      # - uses: dart-lang/setup-dart@v1
-      - uses: dart-lang/setup-dart@9a04e6d73cca37bd455e0608d7e5092f881fd603
-
+      - name: Install Flutter
+        uses: britannio/action-install-flutter@v1.1
+    
       - name: Install dependencies
         run: dart pub get
 
@@ -34,4 +31,9 @@ jobs:
         run: dart analyze --fatal-infos
 
       - name: Run tests
-        run: dart test
+        run: flutter test --coverage
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
