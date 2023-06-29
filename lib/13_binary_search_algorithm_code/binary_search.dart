@@ -16,3 +16,5 @@ int binarySearch(List<double> x, double key) {
 
   return -1;
 }
+
+void hello() => print('Hello, World!');
