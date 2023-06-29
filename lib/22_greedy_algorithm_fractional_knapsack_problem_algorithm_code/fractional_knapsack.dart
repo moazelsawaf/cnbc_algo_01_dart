@@ -13,11 +13,6 @@ class Item extends Equatable {
     required this.weight,
   }) : ratio = value / weight;
 
-  @override
-  String toString() {
-    return '$name\t$value\t$weight\t$ratio';
-  }
-
   // Include all the properties in the equality operation
   @override
   List<Object?> get props => [name, value, weight, ratio];
