@@ -14,3 +14,9 @@ List<int> activitySelection(
 
   return results;
 }
+
+void testtest(){
+  print('test');
+}
+
+void greet(String name) => print('Hello, $name');
