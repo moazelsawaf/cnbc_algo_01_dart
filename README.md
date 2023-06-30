@@ -1,4 +1,4 @@
-<img src="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/blob/documentation/docs/assets/banner.png" width="100%" alt="Repository Banner" />
+<img src="https://raw.githubusercontent.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/main/docs/assets/banner.png" width="100%" alt="Repository Banner" />
 <h3 align="center">
     Cloud Native Base Camp<br>
     Algorithms Analysis and Design from scratch<br>
