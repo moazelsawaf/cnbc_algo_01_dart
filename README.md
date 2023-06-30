@@ -26,7 +26,7 @@
 
 ## 💡 Overview
 
-This repository provides a **(Not Official) Dart Implementation with 100% test coverage** for [Algorithms Analysis and Design from scratch](https://cloudnativebasecamp.com/courses/algo-01/) course provided by [Cloud Native Base Camp](https://cloudnativebasecamp.com/) platform and instructed by [Eng. Ahmed Metwally](https://www.linkedin.com/in/metwally/) 💙❤
+This repository provides a **(Non-Official) Dart Implementation with 100% test coverage** for [Algorithms Analysis and Design from scratch](https://cloudnativebasecamp.com/courses/algo-01/) course provided by [Cloud Native Base Camp](https://cloudnativebasecamp.com/) platform and instructed by [Eng. Ahmed Metwally](https://www.linkedin.com/in/metwally/) 💙❤
 
 The course comprises 30 instructional videos on algorithms, beginning with fundamental concepts and progressing to an average level suitable for software development work 👩🏻‍💻👨🏻‍💻
 
@@ -34,7 +34,7 @@ Visit the above hyperlinks for more information about the course, the platform ,
 
 ## 📖 Repository Philosophy
 
-### The repository is designed with the following key points in mind
+### The repository is designed with the following key points in mind:
 
 - 📂 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
 
