@@ -1,11 +1,9 @@
 <img src="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/blob/documentation/docs/assets/banner.png" width="100%" alt="Repository Banner" />
-<h3 align="center" style="margin:0px;padding:0px;">
+<h3 align="center">
     Cloud Native Base Camp<br>
-    Algorithms Analysis and Design from scratch
-</h3>
-<h2 align="center" style="margin:0px;padding:10px 0px 10px 0px;">
+    Algorithms Analysis and Design from scratch<br>
     Dart Implementation
-</h2>
+</h3>
 
 <p align=" center">
     <a href="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart">
