@@ -1,21 +1,27 @@
 <img src="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/blob/documentation/docs/assets/banner.png" width="100%" alt="Repository Banner" />
-<h3 align="center">
-  Cloud Native Base Camp<br>
-  Algorithms Analysis and Design from scratch
+<h3 align="center" style="margin:0px;padding:0px;">
+    Cloud Native Base Camp<br>
+    Algorithms Analysis and Design from scratch
 </h3>
-<h2 align="center">
-  Dart Implementation
+<h2 align="center" style="margin:0px;padding:10px 0px 10px 0px;">
+    Dart Implementation
 </h2>
 
-<p align="center">
-  <a href="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart" >
-  <img src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graph/badge.svg?token=T90IR6JI53"/>
-  </a>
-  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart">
-    <img src="https://img.shields.io/github/stars/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?style=flat&logo=github&colorB=ffcc00&label=stars" alt="Star on GitHub">
-  </a>
-  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues" rel="ugc"><img   src="https://img.shields.io/github/issues/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?color=DF1304" alt="GitHub Open Issues"></a>
-  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/commits/main" rel="ugc"><img   src="https://img.shields.io/github/last-commit/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg" alt="GitHub Last Commit Date"></a>
+<p align=" center">
+    <a href="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart">
+        <img
+            src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graph/badge.svg?token=T90IR6JI53" />
+    </a>
+    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart">
+        <img src="https://img.shields.io/github/stars/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?style=flat&logo=github&colorB=ffcc00&label=stars"
+            alt="Star on GitHub">
+    </a>
+    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues" rel="ugc"><img
+            src="https://img.shields.io/github/issues/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?color=DF1304"
+            alt="GitHub Open Issues"></a>
+    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/commits/main" rel="ugc"><img
+            src="https://img.shields.io/github/last-commit/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg"
+            alt="GitHub Last Commit Date"></a>
 </p>
 
 ---
@@ -30,7 +36,7 @@ Visit the above hyperlinks for more information about the course, the platform ,
 
 ## 📖 Repository Philosophy
 
-### The repository is designed with the following key points in mind
+### The repository is designed with the following key points in mind:
 
 - 📂 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
 
