@@ -1,7 +1,10 @@
 name: cnbc_algo_01_dart
-description: A sample command-line application.
+description: A non-official Dart Implementation with 100% test coverage for "Algorithms Analysis and Design from scratch" course provided by "Cloud Native Base Camp" platform and instructed by "Eng. Ahmed Metwally".
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/moazelsawaf/cnbc_algo_01_dart
+homepage: https://github.com/moazelsawaf/cnbc_algo_01_dart
+documentation: https://github.com/moazelsawaf/cnbc_algo_01_dart/blob/main/README.md
+issue_tracker: https://github.com/moazelsawaf/cnbc_algo_01_dart/issues
 
 environment:
   sdk: ^3.0.0
