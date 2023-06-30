@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/25_dynamic_programming_0_1_knapsack_problem_algorithm_code/zero_one_knapsack.dart';
+import 'package:cnbc_algo_01_dart/25_dynamic_programming_0_1_knapsack_problem_algorithm_code/zero_one_knapsack.dart';
 
 void main() {
   group('0/1 Knapsack', () {

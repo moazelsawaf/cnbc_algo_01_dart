@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/13_binary_search_algorithm_code/binary_search.dart';
+import 'package:cnbc_algo_01_dart/13_binary_search_algorithm_code/binary_search.dart';
 
 void main() {
   group('Binary Search with x values of [1, 2, 3, 4, 5, 6, 7, 8]', () {

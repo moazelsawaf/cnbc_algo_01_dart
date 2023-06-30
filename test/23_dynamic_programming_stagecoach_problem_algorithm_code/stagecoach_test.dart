@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/23_dynamic_programming_stagecoach_problem_algorithm_code/stagecoach.dart';
+import 'package:cnbc_algo_01_dart/23_dynamic_programming_stagecoach_problem_algorithm_code/stagecoach.dart';
 
 void main() {
   group('Stagecoach', () {

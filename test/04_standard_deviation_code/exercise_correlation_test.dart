@@ -2,7 +2,7 @@ import 'dart:math' as math;
 
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/04_standard_deviation_code/exercise_correlation.dart';
+import 'package:cnbc_algo_01_dart/04_standard_deviation_code/exercise_correlation.dart';
 
 void main() {
   group('(Exercise) Correlation', () {

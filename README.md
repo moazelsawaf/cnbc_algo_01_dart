@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/main/docs/assets/banner.png" width="100%" alt="Repository Banner" />
+<img src="https://raw.githubusercontent.com/moazelsawaf/cnbc_algo_01_dart/main/docs/assets/banner.png" width="100%" alt="Repository Banner" />
 <h3 align="center">
     Cloud Native Base Camp<br>
     Algorithms Analysis and Design from scratch<br>
@@ -6,19 +6,19 @@
 </h3>
 
 <p align=" center">
-    <a href="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart">
+    <a href="https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart">
         <img
-            src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graph/badge.svg?token=T90IR6JI53" />
+            src="https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart/branch/main/graph/badge.svg?token=T90IR6JI53" />
     </a>
-    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart">
-        <img src="https://img.shields.io/github/stars/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?style=flat&logo=github&colorB=ffcc00&label=stars"
+    <a href="https://github.com/moazelsawaf/cnbc_algo_01_dart">
+        <img src="https://img.shields.io/github/stars/moazelsawaf/cnbc_algo_01_dart.svg?style=flat&logo=github&colorB=ffcc00&label=stars"
             alt="Star on GitHub">
     </a>
-    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues" rel="ugc"><img
-            src="https://img.shields.io/github/issues/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?color=DF1304"
+    <a href="https://github.com/moazelsawaf/cnbc_algo_01_dart/issues" rel="ugc"><img
+            src="https://img.shields.io/github/issues/moazelsawaf/cnbc_algo_01_dart.svg?color=DF1304"
             alt="GitHub Open Issues"></a>
-    <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/commits/main" rel="ugc"><img
-            src="https://img.shields.io/github/last-commit/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg"
+    <a href="https://github.com/moazelsawaf/cnbc_algo_01_dart/commits/main" rel="ugc"><img
+            src="https://img.shields.io/github/last-commit/moazelsawaf/cnbc_algo_01_dart.svg"
             alt="GitHub Last Commit Date"></a>
 </p>
 
@@ -34,7 +34,7 @@ Visit the above hyperlinks for more information about the course, the platform ,
 
 ## 📖 Repository Philosophy
 
-### The repository is designed with the following key points in mind:
+### The repository is designed with the following key points in mind
 
 - 📂 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
 
@@ -88,9 +88,9 @@ flutter test --coverage
 
 The coverage report for this repository is uploaded automatically to [Codecov by Sentry](https://about.codecov.io/) after each commit to the `main` branch to be analyzed, archived, and hosted for everyone to check along with more powerful features 💪🏻
 
-The latest coverage report can be found [here](https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart), and he following graph shows the latest coverage report for the repository 📊
+The latest coverage report can be found [here](https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart), and he following graph shows the latest coverage report for the repository 📊
 <br><br>
-<img src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graphs/icicle.svg?token=T90IR6JI53">
+<img src="https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart/branch/main/graphs/icicle.svg?token=T90IR6JI53">
 
 ## 💙 About Dart
 
@@ -117,12 +117,12 @@ To learn more about Dart, visit the [official website (dart.dev)](https://dart.d
 
 I would be happy to have your contributions 💙
 
-If you have a bug, suggestion, or a question, please fill an [Issue](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues) 📄
+If you have a bug, suggestion, or a question, please fill an [Issue](https://github.com/moazelsawaf/cnbc_algo_01_dart/issues) 📄
 
-If you fixed a bug or added something useful, please make a [Pull Request](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/pulls) 📩
+If you fixed a bug or added something useful, please make a [Pull Request](https://github.com/moazelsawaf/cnbc_algo_01_dart/pulls) 📩
 
-<a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=moazelsawaf/cloudnativebasecamp_algo_01_dart" />
+<a href="https://github.com/moazelsawaf/cnbc_algo_01_dart/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=moazelsawaf/cnbc_algo_01_dart" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).

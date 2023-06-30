@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/19_sorted_characters_frequencies_algorithm_code/characters_frequencies.dart';
+import 'package:cnbc_algo_01_dart/19_sorted_characters_frequencies_algorithm_code/characters_frequencies.dart';
 
 void main() {
   group('Characters Frequencies', () {

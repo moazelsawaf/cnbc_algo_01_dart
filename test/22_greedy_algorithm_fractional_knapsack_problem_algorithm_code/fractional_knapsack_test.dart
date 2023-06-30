@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/22_greedy_algorithm_fractional_knapsack_problem_algorithm_code/fractional_knapsack.dart';
+import 'package:cnbc_algo_01_dart/22_greedy_algorithm_fractional_knapsack_problem_algorithm_code/fractional_knapsack.dart';
 
 void main() {
   group('Fractional Knapsack', () {

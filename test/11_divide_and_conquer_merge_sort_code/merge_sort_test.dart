@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/11_divide_and_conquer_merge_sort_code/merge_sort.dart';
+import 'package:cnbc_algo_01_dart/11_divide_and_conquer_merge_sort_code/merge_sort.dart';
 
 void main() {
   group('Merge Sort', () {

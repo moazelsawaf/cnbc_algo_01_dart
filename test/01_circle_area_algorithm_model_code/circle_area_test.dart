@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/01_circle_area_algorithm_model_code/circle_area.dart';
+import 'package:cnbc_algo_01_dart/01_circle_area_algorithm_model_code/circle_area.dart';
 
 void main() {
   group('Circle Area', () {

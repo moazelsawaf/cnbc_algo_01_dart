@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/29_graph_depth_first_search_algorithm_code/depth_first_search.dart';
+import 'package:cnbc_algo_01_dart/29_graph_depth_first_search_algorithm_code/depth_first_search.dart';
 
 void main() {
   group('Depth First Search', () {

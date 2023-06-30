@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/18_greedy_algorithm_activity_selection_problem_algorithm_code/activity_selection.dart';
+import 'package:cnbc_algo_01_dart/18_greedy_algorithm_activity_selection_problem_algorithm_code/activity_selection.dart';
 
 void main() {
   group('Activity Selection Problem', () {

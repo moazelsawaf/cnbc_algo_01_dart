@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/21_greedy_algorithm_huffman_coding_code/huffman_coding.dart';
+import 'package:cnbc_algo_01_dart/21_greedy_algorithm_huffman_coding_code/huffman_coding.dart';
 
 void main() {
   group('Huffman Coding', () {

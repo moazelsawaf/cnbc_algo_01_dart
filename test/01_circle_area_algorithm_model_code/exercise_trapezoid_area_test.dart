@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/01_circle_area_algorithm_model_code/exercise_trapezoid_area.dart';
+import 'package:cnbc_algo_01_dart/01_circle_area_algorithm_model_code/exercise_trapezoid_area.dart';
 
 void main() {
   group('(Exercise) Trapezoid Area', () {

@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/09_insertion_sort_algorithm_code_analysis/insertion_sort.dart';
+import 'package:cnbc_algo_01_dart/09_insertion_sort_algorithm_code_analysis/insertion_sort.dart';
 
 void main() {
   group('Insertion Sort', () {

@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/30_graph_dijkstras_shortest_path_algorithm_code/dijkstras_shortest_path.dart';
+import 'package:cnbc_algo_01_dart/30_graph_dijkstras_shortest_path_algorithm_code/dijkstras_shortest_path.dart';
 
 void main() {
   group("Dijkstra's Shortest Path", () {

@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/04_standard_deviation_code/standard_deviation.dart';
+import 'package:cnbc_algo_01_dart/04_standard_deviation_code/standard_deviation.dart';
 
 void main() {
   group('Standard Deviation', () {

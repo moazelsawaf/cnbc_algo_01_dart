@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/24_dynamic_programming_longest_common_subsequence_algorithm_code/longest_common_subsequence.dart';
+import 'package:cnbc_algo_01_dart/24_dynamic_programming_longest_common_subsequence_algorithm_code/longest_common_subsequence.dart';
 
 void main() {
   group('Longest Common Subsequence', () {

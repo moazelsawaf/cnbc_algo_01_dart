@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/27_graph_prims_minimum_spanning_tree_algorithm_code/prims_minimum_spanning_tree.dart';
+import 'package:cnbc_algo_01_dart/27_graph_prims_minimum_spanning_tree_algorithm_code/prims_minimum_spanning_tree.dart';
 
 void main() {
   group("Prim's Minimum Spanning Tree", () {

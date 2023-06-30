@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:cloudnativebasecamp_algo_01_dart/15_segregate_positive_and_negative_numbers_code/segregate_numbers.dart';
+import 'package:cnbc_algo_01_dart/15_segregate_positive_and_negative_numbers_code/segregate_numbers.dart';
 
 void main() {
   group('Segregate Negative and Positive Numbers', () {
