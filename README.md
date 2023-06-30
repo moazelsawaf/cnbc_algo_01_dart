@@ -1,3 +1,25 @@
+<img src="https://raw.githubusercontent.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/main/docs/assets/banner.png" width="100%" alt="Repository Banner" />
+<h3 align="center">
+  Cloud Native Base Camp<br>
+  Algorithms Analysis and Design from scratch
+</h3>
+<h2 align="center">
+  Dart Implementation
+</h2>
+
+<p align="center">
+  <a href="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart" >
+  <img src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graph/badge.svg?token=T90IR6JI53"/>
+  </a>
+  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart">
+    <img src="https://img.shields.io/github/stars/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?style=flat&logo=github&colorB=ffcc00&label=stars" alt="Star on GitHub">
+  </a>
+  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues" rel="ugc"><img   src="https://img.shields.io/github/issues/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg?color=DF1304" alt="GitHub Open Issues"></a>
+  <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/commits/main" rel="ugc"><img   src="https://img.shields.io/github/last-commit/moazelsawaf/cloudnativebasecamp_algo_01_dart.svg" alt="GitHub Last Commit Date"></a>
+</p>
+
+---
+
 ## 💡 Overview
 
 This repository provides a **(Not Official) Dart Implementation with 100% test coverage** for [Algorithms Analysis and Design from scratch](https://cloudnativebasecamp.com/courses/algo-01/) course provided by [Cloud Native Base Camp](https://cloudnativebasecamp.com/) platform and instructed by [Eng. Ahmed Metwally](https://www.linkedin.com/in/metwally/) 💙❤
@@ -36,9 +58,9 @@ You can also write tests for your code in the `playground_test.dart` file locate
 
 The code in the repository has more than **50 unit tests** with **test coverage of 100%** and should always be 100%.
 
-All the tests are located under the `test/` folder and they are all written with **AAA (Arrange, Act, Assert) pattern** to make them more readable, maintainable, and easier to understand, to learn more about AAA pattern, visit [this article](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80) 📝 
+All the tests are located under the `test/` folder and they are all written with **AAA (Arrange, Act, Assert) pattern** to make them more readable, maintainable, and easier to understand, to learn more about AAA pattern, visit [this article](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80) 📝
 
-### Running Tests:
+### Running Tests
 
 To run all the tests, run the following command:
 
@@ -58,7 +80,7 @@ To run the tests with coverage report, run the following command (Must have Flut
 flutter test --coverage
 ```
 
-### Coverage Report:
+### Coverage Report
 
 The coverage report for this repository is uploaded automatically to [Codecov by Sentry](https://about.codecov.io/) after each commit to the `main` branch to be analyzed, archived, and hosted for everyone to check along with more powerful features 💪🏻
 
