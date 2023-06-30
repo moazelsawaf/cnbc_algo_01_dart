@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/main/docs/assets/banner.png" width="100%" alt="Repository Banner" />
+<img src="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/blob/documentation/docs/assets/banner.png" width="100%" alt="Repository Banner" />
 <h3 align="center">
   Cloud Native Base Camp<br>
   Algorithms Analysis and Design from scratch
@@ -30,7 +30,7 @@ Visit the above hyperlinks for more information about the course, the platform ,
 
 ## 📖 Repository Philosophy
 
-### The repository is designed with the following key points in mind:
+### The repository is designed with the following key points in mind
 
 - 📂 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
 
