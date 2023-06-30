@@ -6,39 +6,39 @@ The course comprises 30 instructional videos on algorithms, beginning with funda
 
 Visit the above hyperlinks for more information about the course, the platform ,and the instructor ✅
 
-## 🧾 Repository Philosophy
+## 📖 Repository Philosophy
 
 ### The repository is designed with the following key points in mind:
 
-📁 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
+- 📂 All the implementation files are located under the `lib/` folder and the test files are located under the `test/` folder.
 
-📹 Each code video has its own folder with the same name of the video (code videos are the videos that have code implementation in them and they are all postfixed with "- Code" in the name).
+- 📹 Each code video has its own folder with the same name of the video (code videos are the videos that have code implementation in them and they are all postfixed with "- Code" in the name).
 
-📝 The code is written in a way that is almost exactly to the code in the videos.
+- 📝 The code is written in a way that is almost exactly to the code in the videos.
 
-🏋🏻‍♀️ The code of the requested exercises is provided and located in the same folder of the code video that requested it and the file name is prefixed with "exercise_".
+- 🏋🏻‍♀️ The code of the requested exercises is provided and located in the same folder of the code video that requested it and the file name is prefixed with "exercise_".
 
-🧪 Each file has its own unit test file with the same name postfixed with "_test" as per the Dart convention.
+- 🧪 Each file has its own unit test file with the same name postfixed with "_test" as per the Dart convention.
 
-📊 The test coverage for the whole repository is 100% and should always be 100%.
+- 📊 The test coverage for the whole repository is 100% and should always be 100%.
 
-🔢 Each algorithm has at least two test cases, and always has the same test cases used in the videos.
+- 🔢 Each algorithm has at least two test cases, and always has the same test cases used in the videos.
 
-🚧 Each video has its own code separated from the other videos, so that if two algorithms shares some code, it is duplicated in both files to keep them isolated from each other (for example, graph traversal algorithms and merge sort algorithm).
+- 🚧 Each video has its own code separated from the other videos, so that if two algorithms shares some code, it is duplicated in both files to keep them isolated from each other (for example, graph traversal algorithms and merge sort algorithm).
 
 ## 🕹 How to Try?
 
-🎮 You can play around with all the code in the repository by using it in `playground.dart` file located under the `bin/` folder.
+You can play around with all the code in the repository by using it in `playground.dart` file located under the `bin/` folder 🎮
 
-🧪 You can also write tests for your code in the `playground_test.dart` file located under the `test/` folder.
+You can also write tests for your code in the `playground_test.dart` file located under the `test/` folder 🔬
 
 ## 🧪 Code Testing
 
 The code in the repository has more than **50 unit tests** with **test coverage of 100%** and should always be 100%.
 
-*All the tests are located under the `test/` folder.*
+All the tests are located under the `test/` folder and they are all written with **AAA (Arrange, Act, Assert) pattern** to make them more readable, maintainable, and easier to understand, to learn more about AAA pattern, visit [this article](https://medium.com/@pjbgf/title-testing-code-ocd-and-the-aaa-pattern-df453975ab80) 📝 
 
-### Running Tests
+### Running Tests:
 
 To run all the tests, run the following command:
 
@@ -58,23 +58,23 @@ To run the tests with coverage report, run the following command (Must have Flut
 flutter test --coverage
 ```
 
-### Coverage Report
+### Coverage Report:
 
-The coverage report for this repository is uploaded automatically to [Codecov by Sentry](https://about.codecov.io/) and can be found [here](https://app.codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart).
+The coverage report for this repository is uploaded automatically to [Codecov by Sentry](https://about.codecov.io/) after each commit to the `main` branch to be analyzed, archived, and hosted for everyone to check along with more powerful features 💪🏻
 
-The following graph show the latest coverage report for the repository:
-
+The latest coverage report can be found [here](https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart), and he following graph shows the latest coverage report for the repository 📊
+<br><br>
 <img src="https://codecov.io/gh/moazelsawaf/cloudnativebasecamp_algo_01_dart/branch/main/graphs/icicle.svg?token=T90IR6JI53">
 
 ## 💙 About Dart
 
-Simply, **Dart is a client-optimized language for fast apps on any platform**.
+Simply, **Dart is a client-optimized language for fast apps on any platform** ⚡
 
-It is a programming language that was developed by Google in 2011. It is designed to be expressive, concise, and scalable for web, mobile, and desktop applications. Dart can be compiled to native code, JavaScript, or run on a virtual machine.
+It is a programming language that was developed by Google in 2011. It is designed to be expressive, concise, and scalable for web, mobile, and desktop applications. Dart can be compiled to native code, JavaScript, or run on a virtual machine 💙
 
-Dart is closely related to Flutter, which is a framework for building cross-platform user interfaces with Dart. Flutter allows developers to create beautiful and responsive apps that run on iOS, Android, Windows, Linux, and the web with a single codebase.
+Dart is closely related to Flutter, which is a framework for building cross-platform user interfaces with Dart. Flutter allows developers to create beautiful and responsive apps that run on iOS, Android, Windows, Linux, and the web with a single codebase 📱💻
 
-Dart has many features that make it a powerful and productive language for modern app development. Some of these features are:
+Dart has many features that make it a powerful and productive language for modern app development. Some of these features are 💪🏻:
 
 - Strong typing with type inference and null safety
 - Support for both object-oriented and functional programming paradigms
@@ -85,14 +85,15 @@ Dart has many features that make it a powerful and productive language for moder
 - A comprehensive set of libraries and packages for common tasks
 - And much more!
 
-To learn more about Dart, visit the [official website (dart.dev)](https://dart.dev/).
+To learn more about Dart, visit the [official website (dart.dev)](https://dart.dev/) ✅
 
 ## 💪🏻 Contribution Guide
 
 I would be happy to have your contributions 💙
 
-If you have a bug, suggestion, or a question, please fill an [Issue](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues).
-If you fixed a bug or added something useful, please make a [Pull Request](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/pulls).
+If you have a bug, suggestion, or a question, please fill an [Issue](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/issues) 📄
+
+If you fixed a bug or added something useful, please make a [Pull Request](https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/pulls) 📩
 
 <a href="https://github.com/moazelsawaf/cloudnativebasecamp_algo_01_dart/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=moazelsawaf/cloudnativebasecamp_algo_01_dart" />
