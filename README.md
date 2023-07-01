@@ -42,7 +42,7 @@ Visit the above hyperlinks for more information about the course, the platform ,
 
 - 📝 The code is written in a way that is almost exactly to the code in the videos.
 
-- 🏋🏻‍♀️ The code of the requested exercises is provided and located in the same folder of the code video that requested it and the file name is prefixed with "exercise_".
+- ✏ The code of the requested exercises is provided and located in the same folder of the code video that requested it and the file name is prefixed with "exercise_".
 
 - 🧪 Each file has its own unit test file with the same name postfixed with "_test" as per the Dart convention.
 
