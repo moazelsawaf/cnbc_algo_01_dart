@@ -88,7 +88,7 @@ flutter test --coverage
 
 The coverage report for this repository is uploaded automatically to [Codecov by Sentry](https://about.codecov.io/) after each commit to the `main` branch to be analyzed, archived, and hosted for everyone to check along with more powerful features 💪🏻
 
-The latest coverage report can be found [here](https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart), and he following graph shows the latest coverage report for the repository 📊
+The latest coverage report can be found [here](https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart), and the following graph shows the latest coverage report for the repository 📊
 <br><br>
 <img src="https://codecov.io/gh/moazelsawaf/cnbc_algo_01_dart/branch/main/graphs/icicle.svg?token=T90IR6JI53">
 
