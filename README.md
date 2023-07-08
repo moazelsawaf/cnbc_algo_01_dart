@@ -115,11 +115,15 @@ To learn more about Dart, visit the [official website (dart.dev)](https://dart.d
 
 ## 💪🏻 Contribution Guide
 
+If you come across a bug or have an idea for a new feature, please let me know by creating an [Issue](https://github.com/moazelsawaf/cnbc_algo_01_dart/issues) 🐛💡
+
+If you've already fixed a bug or implemented a feature, feel free to submit a [Pull Request](https://github.com/moazelsawaf/cnbc_algo_01_dart/pulls) 🚀
+
+Having questions, ideas, or feedback? Don't worry, simply open a [Discussion](https://github.com/moazelsawaf/cnbc_algo_01_dart/discussions) 🔊
+
+Find this project useful? Don't forget to show some love by giving a Star ⭐
+
 I would be happy to have your contributions 💙
-
-If you have a bug, suggestion, or a question, please fill an [Issue](https://github.com/moazelsawaf/cnbc_algo_01_dart/issues) 📄
-
-If you fixed a bug or added something useful, please make a [Pull Request](https://github.com/moazelsawaf/cnbc_algo_01_dart/pulls) 📩
 
 <a href="https://github.com/moazelsawaf/cnbc_algo_01_dart/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=moazelsawaf/cnbc_algo_01_dart" />
